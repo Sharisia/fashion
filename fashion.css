@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(247, 247, 247);
+}
+
+.container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+nav{
+    text-align: center;
+}
+
+.menu{
+    padding-top: 20px;
+}
+
+img{
+    width: 15%;
+    margin: auto;
+}
